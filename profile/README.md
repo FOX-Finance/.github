@@ -16,4 +16,4 @@
 
 ---
 
-[![](https://github-readme-twitter.gazf.vercel.app/api?id=FoxStablecoin&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![](https://github-readme-twitter.gazf.vercel.app/api?id=FoxStablecoin&layout=wide)](https://twitter.com/FoxStablecoin)
