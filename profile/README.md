@@ -12,7 +12,7 @@
 
 ### 🧑‍🌾 Be the owner of FOX
 
-[WebApp](https://fox-fi.web.app) | [Docs](https://github.com/FOX-Finance/FOX-docs) | [Twitter](https://twitter.com/FoxStablecoin)
+[WebApp](https://fox-fi.web.app) | [Docs](https://fox-finance.github.io/FOX-docs/) | [Twitter](https://twitter.com/FoxStablecoin)
 
 ---
 
