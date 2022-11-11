@@ -1,6 +1,6 @@
 # FOX Finance
 
-> Powered by [moralis](https://moralis.io), [BNB Smart Chain](https://www.bnbchain.org/en/smartChain), and [AXELAR](https://axelar.network).
+> Powered by [moralis](https://moralis.io) and [BNB Smart Chain](https://www.bnbchain.org/en/smartChain).
 
 ---
 
