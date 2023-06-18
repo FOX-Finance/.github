@@ -10,4 +10,4 @@
 
 ### 🧑‍🌾 Be the owner of FOX
 
-[WebApp](https://fox-fi.web.app) | [Docs](https://fox-finance.github.io/FOX-docs/)
+[WebApp](https://fox-finance.github.io/webapp/) | [Docs](https://fox-finance.github.io/docs/)
